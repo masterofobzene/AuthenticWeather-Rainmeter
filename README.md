@@ -1,14 +1,14 @@
-# AuthenticWeather for Rainmeter
-A fork from Shanee's AuthenticWeather rainmeter skin fixed to work with the new weather API.
+# AuthenticWeather para Rainmeter
+Un fork de Shanee's AuthenticWeather que se corrigió para que funcione con la nueva API meteorológica y se traduce a castellano.
 
 ![Screenshot of Skin](Screenshot.png)
 
-### Installation:
+### Instalación:
 
- - Download the zip from [Releases](https://github.com/masterofobzene/AuthenticWeather-Rainmeter/releases).
- - Navigate to your Rainmeter Skin folder
- - **Unzip it there with the other skins**
- - Edit AuthenticWeather.ini and add your OpenWeatherMap API, Latitude and Longitude.
- - Select whether you want the clean or nsfw phrases.
- - Refresh the skin.
+- Descarga el archivo zip desde [Releases](https://github.com/masterofobzene/AuthenticWeather-Rainmeter/releases).
+- Navega a tu carpeta de skins de Rainmeter.
+- **Descomprímelo allí junto con las otras skins.**
+- Edita el archivo `AuthenticWeather.ini` y agrega tu API de OpenWeatherMap, Latitud y Longitud.
+- Selecciona si deseas las frases normales o las explícitas (nsfw en inglés por el momento).
+- Actualiza el skin.
 
