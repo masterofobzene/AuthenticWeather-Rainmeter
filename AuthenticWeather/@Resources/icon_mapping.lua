@@ -18,6 +18,8 @@ function Initialize()
         ["13n"] = "snow.png",
         ["50d"] = "mist.png",
         ["50n"] = "mist.png",
+		["11d"] = "thunderstorm.png",
+        ["11n"] = "thunderstorm_n.png",
     }
 end
 

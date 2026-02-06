@@ -2,72 +2,72 @@ phrases = {
     version = 8,
     phrases = {
         {
-            highlight = { "love is" },
-            title = "Love is in the air.",
-            subline = "Take off your shirt and get wet.",
+            highlight = { "che" },
+            title = "Despejado.",
+            subline = "Ni una nube che",
             min = 25,
             condition = "Clear",
-            color = "FF0060"
+            color = "FFAE42"
         },
         {
-            highlight = { "raining" },
-            title = "It's raining.",
-            subline = "You can look outside to get more information.",
+            highlight = { "lloviendo" },
+            title = "Ta' lloviendo.",
+            subline = "Tambien podes mirar por la ventana.",
             condition = "Rain",
-            color = "007EFF"
+            color = "FFAE42"
         },
         {
-            highlight = { "cloudy" },
-            title = "It's cloudy.",
-            subline = "You can look outside to get more information.",
+            highlight = { "nublado" },
+            title = "Esta nublado.",
+            subline = "Llovera?",
             condition = "Clouds",
-            color = "007EFF"
+            color = "FFAE42"
         },
         {
-            highlight = { "fridge." },
-            title = "Freezing cold like a fridge.",
-            subline = "You can look outside to get more information.",
+            highlight = { "nevera" },
+            title = "Nevando... si, NEVANDO",
+            subline = "Esta si que no te la esperabas.",
             max = 4,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "nice" },
-            title = "It's nice.",
-            subline = "Take off your shirt but keep on your panties.",
+            highlight = { "lindo" },
+            title = "Esta lindo.",
+            subline = "Como para andar en calzones.",
             min = 20,
             max = 30,
             condition = "Sunny",
-            color = "FF0060"
+            color = "FFAE42"
         },
         {
-            highlight = { "snow" },
-            title = "Holy snow.",
-            subline = "Still not ready for building that snow castle.",
+            highlight = { "nieve" },
+            title = "Nieve intensa.",
+            subline = "Aun no estas listo para construir ese castillo de nieve.",
             condition = "Snow",
-            color = "007EFF"
+            color = "FFAE42"
         },
         {
-            color = "007EFF",
+            color = "FFAE42",
             condition = "Clear",
             min = 5,
-            title = "It's alright today.",
-            subline = "Not amazeballs but also not bad.",
-            highlight = { "alright" },
+            title = "Frescolari.",
+            subline = "Brrrrrrr",
+            highlight = { "bien" },
             max = 15
         },
         {
-            highlight = { "freezing" },
-            title = "Are you freezing serious?",
-            subline = "You can't look outside because of snow.",
+            highlight = { "congelado" },
+            title = "Tetetetengo frio",
+            subline = "Hora de quemar algo.",
             max = 3,
             condition = "Snow",
-            color = "007EFF"
+            color = "FFAE42"
         },
         {
-            highlight = { "oven." },
-            title = "It's like a oven.",
-            subline = "Just get naked, now - And get some ice cream.",
+            highlight = { "horno" },
+            title = "Esto no es normal.",
+            subline = "Creo que vamos a morir.",
             min = 30,
             condition = "Sunny",
             color = "FFC600"
@@ -76,429 +76,453 @@ phrases = {
             color = "9F9F9F",
             condition = "Clouds",
             min = 5,
-            title = "It's just grey.",
-            subline = "Just clouds & no love, but computer games.",
-            highlight = { "grey." },
+            title = "Algo nublado.",
+            subline = "Si, asi de tibio.",
+            highlight = { "nublado" },
             max = 16
         },
         {
-            highlight = { "snow" },
-            title = "Can't see because snow.",
-            subline = "Try looking outside for more information, try it...",
+            highlight = { "nieve" },
+            title = "No se ve por la nieve.",
+            subline = "Intenta mirar afuera para mas informacion, prueba...",
             condition = "Snow",
             color = "FFFFFF"
         },
         {
-            highlight = { "snow" },
-            title = "Can't see because snow.",
-            subline = "Try looking outside for more information, try it...",
+            highlight = { "nieve" },
+            title = "No se ve por la nieve.",
+            subline = "Intenta mirar afuera para mas informacion, prueba...",
             condition = "sleet",
             color = "FFFFFF"
         },
         {
-            color = "FF0060",
+            color = "FFAE42",
             condition = "Clear",
             min = 20,
-            title = "Amaze Balls.",
-            subline = "So nice outside, holy schmoly.",
-            highlight = { "Amaze" },
+            title = "¡Un dia peronista!",
+            subline = "Que no se corte la luz...",
+            highlight = { "peronista" },
             max = 35
         },
         {
-            highlight = { "melting" },
-            title = "I'm melting.",
-            subline = "Take off your shirt and get wet.",
+            highlight = { "calor" },
+            title = "Hace calor.",
+            subline = "Se puede derretir tu silla.",
             min = 23,
             condition = "Sunny",
             color = "FF0000"
         },
         {
-            highlight = { "hot" },
-            title = "It's so hot.",
-            subline = "I wouldn't go outside for more information.",
+            highlight = { "caliente" },
+            title = "Se evapora mi saliva.",
+            subline = "Dos palabras: Aire Acondicionado.",
             min = 25,
             condition = "Sunny",
             color = "FF0000"
         },
         {
-            highlight = { "car wash" },
-            title = "It's car wash time.",
-            subline = "Exactly! It's going to be hot as hell.",
+            highlight = { "sufrir" },
+            title = "La vas a pasar mal.",
+            subline = "Espero que ande el ventilador.",
             min = 24,
             condition = "Sunny",
             color = "FF0F66"
         },
         {
-            highlight = { "naked" },
-            title = "Let's get naked.",
-            subline = "You heard it, it's going to be hot!",
+            highlight = { "ropas" },
+            title = "Fuera ropas.",
+            subline = "El nudismo no debe ser tan malo.",
             min = 24,
             condition = "Sunny",
             color = "FF0F66"
         },
         {
-            highlight = { "warming" },
-            title = "Global warming.",
-            subline = "Yeah, let's blame Global Warming.",
+            highlight = { "global" },
+            title = "Calentamiento global.",
+            subline = "Si, echemosle la culpa.",
             min = 30,
             condition = "Sunny",
-            color = "FF0000"
+            color = "FFAE42"
         },
         {
             highlight = { "tropical" },
-            title = "It's tropical.",
-            subline = "Ice Cream is my final answer.",
+            title = "Clima tropical.",
+            subline = "Creo que hay monos en las ventanas.",
             min = 35,
             condition = "Sunny",
-            color = "FF0000"
+            color = "FFAE42"
         },
         {
-            highlight = { "damn" },
-            title = "It's too damn hot.",
-            subline = "Ice Cream is my final answer.",
+            highlight = { "mucho" },
+            title = "Mucho calor.",
+            subline = "Lo que mata es Buenos Aires.",
             min = 33,
             condition = "Sunny",
-            color = "FF0000"
+            color = "FFAE42"
         },
         {
-            highlight = { "you are" },
-            title = "I think you are hot.",
-            subline = "Just kidding, but the weather is.",
+            highlight = { "lorca" },
+            title = "Se viene el lorca.",
+            subline = "Manda ventilador al 2020.",
             min = 25,
             condition = "Sunny",
-            color = "FF0000"
+            color = "FFAE42"
         },
         {
-            highlight = { "hot." },
-            title = "Drop it like it's hot.",
-            subline = "*Don't drop your iPhone though, seriously.",
+            highlight = { "derretidos" },
+            title = "Nos derretimos.",
+            subline = "Pone el aire.",
             min = 35,
             condition = "Sunny",
-            color = "FF0000"
+            color = "FFAE42"
         },
         {
-            highlight = { "BBQ" },
-            title = "It's BBQ time.",
-            subline = "Vegetarians and Meat fans unite! BBQ is for all of us.",
+            highlight = { "caluroso" },
+            title = "Caluroso.",
+            subline = "Si, hace calor.",
             min = 24,
             condition = "Sunny",
-            color = "FF0000"
+            color = "FFAE42"
         },
         {
-            highlight = { "umbrella." },
-            title = "Get your umbrella.",
-            subline = "Loads of rain is awaiting you.",
+            highlight = { "paraguas" },
+            title = "Lleva paraguas.",
+            subline = "O mejor, no salgas.",
             condition = "Rain",
-            color = "007EFF"
+            color = "FFAE42"
         },
         {
-            highlight = { "shades" },
-            title = "Fifty shades of grey.",
-            subline = "Grey clouds everywhere.",
+            highlight = { "gris" },
+            title = "Esta gris.",
+            subline = "Nuboso.",
             condition = "Clouds",
-            color = "9F9F9F"
+            color = "FFAE42"
         },
         {
-            highlight = { "Thunder" },
-            title = "Thunder storm.",
-            subline = "It's time to sing the Screw you Thunder song.",
+            highlight = { "bolsas" },
+            title = "Ventoso.",
+            subline = "Ahh las bolsas volando...",
             condition = "Wind",
-            color = "9F9F9F"
+            color = "FFAE42"
         },
         {
-            highlight = { "Cloudy" },
-            title = "Cloudy with a chance of....",
-            subline = "You thought I would say meatballs right? Stupid.",
+            highlight = { "nublado" },
+            title = "Nublado.",
+            subline = "Como el cerebro de unos cuantos.",
             condition = "Clouds",
-            color = "007EFF"
+            color = "FFAE42"
         },
         {
-            highlight = { "dark" },
-            title = "It's getting dark.",
-            subline = "The storm is coming - May the Force be with you.",
+            highlight = { "ventoso" },
+            title = "Ventoso",
+            subline = "Que ventarron.",
             condition = "Wind",
-            color = "9F9F9F"
+            color = "FFAE42"
         },
         {
-            highlight = { "stoopid." },
-            title = "So hot makin' me stoopid.",
-            subline = "I heard that Ryan Gosling said this.",
+            highlight = { "calor" },
+            title = "Calor.",
+            subline = "Ya llegamos al infierno?",
             min = 34,
             condition = "Sunny",
-            color = "FF0000"
+            color = "FFAE42"
         },
         {
-            highlight = { "stupid" },
-            title = "It's stupid hot.",
-            subline = "Even Siri has no answer for you today.",
+            highlight = { "insoportable" },
+            title = "Calor insoportable.",
+            subline = "Ni Siri tiene una respuesta para vos hoy.",
             min = 25,
             condition = "Sunny",
-            color = "FF0000"
+            color = "FFAE42"
         },
         {
             highlight = { "whiskey" },
-            title = "It's whiskey time.",
-            subline = "This will warm you up. It's freezing!",
+            title = "Hora de un whiskey.",
+            subline = "Esto te va a calentar. ¡Hace un frio de cagarse!",
             max = 5,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "skiing" },
-            title = "It's skiing time.",
-            subline = "Snow every where, yay!",
+            highlight = { "esquiar" },
+            title = "Hora de esquiar.",
+            subline = "Nieve por todos lados!",
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "monkey" },
-            title = "Cold ass monkey pants.",
-            subline = "Yeah, exactly.",
+            highlight = { "locos" },
+            title = "Frio de locos.",
+            subline = "Si, exacto.",
             max = 5,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "cold" },
-            title = "Hey girl are you cold?",
-            subline = "That's because it's freezing outside. Go & look.",
+            highlight = { "frio" },
+            title = "Tenes frio?",
+            subline = "Es porque afuera esta helado. Anda y mira.",
             max = 5,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "Hello?" },
-            title = "Hello? Yes, this is snow- man.",
-            subline = "It's time to build me. Look outside fancy pants.",
+            highlight = { "hola" },
+            title = "Hola? Si, soy el hombre de nieve.",
+            subline = "Es hora de construirme. Mira afuera, elegante.",
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "Frozen" },
-            title = "Frozen weather.",
-            subline = "It's freezing right now, look outside.",
+            highlight = { "congelado" },
+            title = "Clima congelado.",
+            subline = "Esta helado ahora, mira afuera.",
             max = 5,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "zero" },
-            title = "Negative zero.",
-            subline = "It's freezing right now, look outside!",
+            highlight = { "cero" },
+            title = "Cero bajo cero.",
+            subline = "Esta helado ahora, ¡mira afuera!",
             max = 0,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "zero" },
-            title = "Below zero.",
-            subline = "It's freezing right now, look outside!",
+            highlight = { "cero" },
+            title = "Bajo cero.",
+            subline = "Esta helado ahora, ¡mira afuera!",
             max = -1,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "ice" },
-            title = "Cold as ice.",
-            subline = "You heard it, unpack your space heater!",
+            highlight = { "hielo" },
+            title = "Frio como hielo.",
+            subline = "Ya lo escuchaste, ¡desempaca tu calentador!",
             max = 4,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "chilly" },
-            title = "It's getting chilly.",
-            subline = "You heard it, unpack your space heater!",
+            highlight = { "fresco" },
+            title = "Esta fresco.",
+            subline = "Ya lo escuchaste, ¡desempaca tu calentador!",
             min = 5,
             max = 10,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "Frozen" },
-            title = "Frozen fingers.",
-            subline = "Can't feel my fingers any more.",
+            highlight = { "congelado" },
+            title = "Dedos congelados.",
+            subline = "Ya no siento mis dedos.",
             max = 0,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "Frost" },
-            title = "Frost bite.",
-            subline = "Can't feel my fingers any more.",
+            highlight = { "escarcha" },
+            title = "Mordida de escarcha.",
+            subline = "Ya no siento mis dedos.",
             max = 0,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "penguin" },
-            title = "As cold as a penguin.",
-            subline = "I have to admit, that sounds kinda cute.",
+            highlight = { "pinguino" },
+            title = "Frio como pinguino.",
+            subline = "Debo admitir, eso suena algo tierno.",
             max = 0,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "pole" },
-            title = "North pole.",
-            subline = "Nothing against the north pole, but seriously!",
+            highlight = { "polo" },
+            title = "Polo norte.",
+            subline = "Nada contra el polo norte, ¡pero en serio!",
             max = 0,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "your stuff." },
-            title = "Icebergs all over your stuff.",
-            subline = "Time to get cozy and watch Titanic again!",
+            highlight = { "Icebergs" },
+            title = "Icebergs por todos lados.",
+            subline = "¡Hora de ponerte comodo y ver Titanic otra vez!",
             max = 5,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "Ice age." },
-            title = "Ice age.",
-            subline = "The movie was great, the weather is not.",
+            highlight = { "era de hielo" },
+            title = "Era de hielo.",
+            subline = "La pelicula fue genial, el clima no tanto.",
             max = 0,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "arctic" },
-            title = "It's arctic.",
-            subline = "Can't feel my fingers any more.",
+            highlight = { "artico" },
+            title = "Esta artico.",
+            subline = "Ya no siento mis dedos.",
             max = 0,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "Glacial" },
-            title = "Glacial ice.",
-            subline = "Can't feel my fingers any more.",
+            highlight = { "glacial" },
+            title = "Hielo glacial.",
+            subline = "Ya no siento mis dedos.",
             max = 0,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "Numb" },
-            title = "Numb fingers.",
-            subline = "Can't feel my fingers any more.",
+            highlight = { "entumecidos" },
+            title = "Dedos entumecidos.",
+            subline = "Ya no siento mis dedos.",
             max = 3,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "thermic" },
-            title = "Hypo thermic.",
-            subline = "A friend of mine called Tim said that. Smartypants.",
+            highlight = { "hipotermico" },
+            title = "Hipotermico.",
+            subline = "Un amigo mio lo dijo.",
             max = -3,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "nipples" },
-            title = "Am I allowed to say nipples?",
-            subline = "Because it's freezing! You get the point.",
+            highlight = { "pezones" },
+            title = "Puedo decir pezones?",
+            subline = "¡Porque esta helado! Ya entendes.",
             max = 5,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "Brezzy" },
-            title = "Brezzy breezy.",
-            subline = "It's getting cold outside!",
+            highlight = { "ventoso" },
+            title = "Ventoso y fresco.",
+            subline = "¡Esta haciendo frio afuera!",
             max = 6,
             condition = "Wind",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "foggy" },
-            title = "It's foggy.",
-            subline = "It's getting cold outside!",
+            highlight = { "neblinoso" },
+            title = "Esta neblinoso.",
+            subline = "¡Esta haciendo frio afuera!",
             condition = "Fog",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "windy" },
-            title = "It's windy.",
-            subline = "It's getting cold outside!",
+            highlight = { "ventoso" },
+            title = "Esta ventoso.",
+            subline = "¡Esta haciendo frio afuera!",
             condition = "Wind",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "frosty" },
-            title = "It's frosty.",
-            subline = "It's getting cold outside!",
+            highlight = { "escarchado" },
+            title = "Esta escarchado.",
+            subline = "¡Esta haciendo frio afuera!",
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "gloomy" },
-            title = "It's gloomy.",
-            subline = "It's getting cold outside!",
+            highlight = { "sombrio" },
+            title = "Esta sombrio.",
+            subline = "¡Esta haciendo frio afuera!",
             condition = "Clouds",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "icy" },
-            title = "It's icy.",
-            subline = "It's getting cold outside!",
+            highlight = { "helado" },
+            title = "Esta helado.",
+            subline = "¡Esta haciendo frio afuera!",
             max = 0,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "nippy" },
-            title = "It's nippy.",
-            subline = "It's getting cold outside!",
+            highlight = { "fresco" },
+            title = "Esta fresco.",
+            subline = "¡Esta haciendo frio afuera!",
             max = 3,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "brisk" },
-            title = "It's brisk.",
-            subline = "It's getting cold outside!",
+            highlight = { "vigorizante" },
+            title = "Esta vigorizante.",
+            subline = "¡Esta haciendo frio afuera!",
             max = 6,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "chill" },
-            title = "It's chill.",
-            subline = "It's getting cold outside!",
+            highlight = { "fresco" },
+            title = "Esta fresco.",
+            subline = "¡Esta haciendo frio afuera!",
             max = 8,
             condition = "Wind",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "cool" },
-            title = "It's cool.",
-            subline = "It's getting cold outside!",
+            highlight = { "fresco" },
+            title = "Esta fresco.",
+            subline = "¡Esta haciendo frio afuera!",
             max = 12,
             condition = "Wind",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "frost" },
-            title = "It's frost.",
-            subline = "It's getting cold outside!",
+            highlight = { "escarcha" },
+            title = "Esta escarchado.",
+            subline = "¡Esta haciendo frio afuera!",
             max = 3,
             condition = "Snow",
-            color = "004A96"
+            color = "FFAE42"
         },
         {
-            highlight = { "nearly" },
-            title = "It's nearly freezing.",
-            subline = "It's getting cold outside!",
+            highlight = { "Casi" },
+            title = "Casi congelado.",
+            subline = "¡Esta haciendo frio afuera!",
             max = 3,
             condition = "Snow",
-            color = "004A96"
+            color = "0096FF"
+        },
+		{
+            highlight = { "Rayos" },
+            title = "Rayos y Centellas!",
+            subline = "Pense que eran fotos.",
+            max = 3,
+            condition = "Thunderstorm",
+            color = "FFAE42"
+        },
+		{
+            highlight = { "Rayos" },
+            title = "Rayos y Centellas!",
+            subline = "Pense que eran fotos.",
+            max = 3,
+            condition = "Thunderstorm",
+            color = "FFAE42"
+        },
+		{
+            highlight = { "Humo" },
+            title = "Humo en el aire",
+            subline = "Y no es de tu cerebro.",
+            max = 3,
+            condition = "Smoke",
+            color = "FFAE42"
         }
     }
 }
 
 function GetPhrase()
-    return phrases, phrases.phrases[1].color  -- Add color value to return statement
+    return phrases, phrases.phrases[1].color
 end
 
 return { GetPhrase = GetPhrase }
