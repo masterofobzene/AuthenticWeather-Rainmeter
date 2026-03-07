@@ -10,8 +10,8 @@ function Initialize()
         ["03n"] = "cloudy.png",
         ["04d"] = "broken_clouds.png",
         ["04n"] = "broken_clouds.png",
-        ["09d"] = "shower_rain_day.png",
-        ["09n"] = "shower_rain_night.png",
+        ["09d"] = "shower_rain.png",
+        ["09n"] = "shower_rain.png",
         ["10d"] = "rain.png",
         ["10n"] = "rain.png",
         ["13d"] = "snow.png",
@@ -19,7 +19,7 @@ function Initialize()
         ["50d"] = "mist.png",
         ["50n"] = "mist.png",
 		["11d"] = "thunderstorm.png",
-        ["11n"] = "thunderstorm_n.png",
+        ["11n"] = "thunderstorm.png",
     }
 end
 
