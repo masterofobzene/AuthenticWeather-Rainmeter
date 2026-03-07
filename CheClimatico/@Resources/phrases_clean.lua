@@ -16,9 +16,16 @@ phrases = {
             condition = "Rain",
             color = "FFAE42"
         },
+		{
+            highlight = { "Llovizna" },
+            title = "Llovizna.",
+            subline = "Tambien podes mirar por la ventana.",
+            condition = "Drizzle",
+            color = "FFAE42"
+        },
         {
-            highlight = { "nublado" },
-            title = "Esta nublado.",
+            highlight = { "nublado." },
+            title = "Está nublado.",
             subline = "¿Lloverá?",
             condition = "Clouds",
             color = "FFAE42"
