@@ -4,7 +4,7 @@ Un fork de Shanee's AuthenticWeather que se corrigió para que funcione con la n
 <img alt="NfMJxKKfUa" src="SCREENSHOT.png" />
 
 >[!WARNING]
->The latest version of rainmeter breaks this skin! Maximum tolerated version is 4.5.23 for now.
+>¡La última versión de Rainmeter rompe esta skin! Por ahora, la versión máxima compatible es la 4.5.23.
 
 
 ### Instalación:
